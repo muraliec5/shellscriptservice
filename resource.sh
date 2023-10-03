@@ -2,3 +2,6 @@
 
 free -h
 du -h
+date
+hostname
+ls -l
