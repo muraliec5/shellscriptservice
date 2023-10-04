@@ -5,3 +5,5 @@ du -h
 date
 hostname
 ls -l
+
+ls -la
